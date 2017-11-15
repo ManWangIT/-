@@ -1,0 +1,84 @@
+.reservation_box table {
+    border-collapse: separate;
+    border-spacing: 0;
+}
+
+.reservation_box th, .reservation_box td {
+    text-align: left;
+}
+
+.close {
+    background: rgba(0, 0, 0, 0) url("../images/close.png") no-repeat scroll 0 0;
+    border: 0 solid #cccccc;
+    color: #1c94c4;
+    font-weight: bold;
+    height: 47px;
+    margin: -22px -10px 0 0;
+    width: 47px;
+}
+
+.close span{
+    left: 60%;
+    margin-left: -8px;
+    margin-top: -3px;
+    position: absolute;
+    top: 30%;
+}
+.reservation_title{ margin-bottom:20px;}
+.reservation_box{ width: 720px; padding: 10px; background: #fff;}
+.reservation_title span {
+    color: #333;
+    display: block;
+    font: 13px "Microsoft YaHei";
+    text-align: center;
+    width: 100%;
+}
+.reservation_info {
+    margin-top: 40px;
+    text-align: center;
+}
+.reservation_info table {
+    height: 150px;
+    margin: 0 auto;
+}
+.reservation_info input {
+    border: 1px solid #d8d8d8;
+    height: 30px;
+    width: 200px;
+}
+.reservation_info span {
+    color: #333;
+    font: 13px "Microsoft YaHei";
+}
+.get_verify {
+    background: #ff6600 none repeat scroll 0 0;
+    border: 1px solid #ff6600;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px;
+    height: 25px;
+    line-height: 25px;
+    margin-left: 10px;
+    text-align: center;
+    width: 100px;
+}
+.housing_reserve_div {
+   border:none;
+}input[type="submit"], input[type="button"] {
+    cursor: pointer;
+}
+.housing_reserve_btn {
+    background: #ff6600 none repeat scroll 0 0;
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    font-size: 15px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: 240px;
+    margin-top: 30px;
+    text-align: center;
+    width: 200px;
+    border: none;
+}

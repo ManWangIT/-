@@ -1,0 +1,88 @@
+/*第四块*/
+.fangda-4{
+	width: 100%;
+	border-top: 2px solid #ff6600; 
+}
+.f-center4{
+	width: 1200px;
+	margin:0 auto;
+}
+.f-center4 p{
+	font-size: 12px;
+	color: #333;
+	height: 45px;
+	line-height: 45px; 
+}
+.f-center4 h3{
+	font-size: 20px;
+	color: #222;
+	height: 40px;
+	line-height: 40px;
+	margin-top: 12px;
+}
+.bianli{
+	font-size: 12px;
+	width: 54px;
+	height: 19px;
+	line-height: 19px;
+	border: 1px solid #f4f4f4;
+	color: #ccc;
+	margin-bottom: 16px;
+}
+.tobig{
+	width: 100%;
+}
+.left-to{
+	width: 600px;
+	float: left;
+	position: relative;
+}
+.smallpic{
+	width: 600px;
+	height: 370px;
+
+
+}
+.smallpic img{
+	width: 600px;
+	height: 370px;
+	
+
+}
+.smallbox{
+	width: 435px;
+	height: 273.8px;
+	position: absolute;
+	top:0;
+	left: 0;
+	background: yellow;
+	opacity: 0.2;
+	cursor: pointer;
+	display: none;
+}
+.right-to{
+	width: 580px;
+	position: absolute;
+	top:0;
+	right: -595px;
+	overflow: hidden;
+	z-index: 5;
+
+}
+.bigbox{
+	width: 580px;
+	height: 370px;
+	display: none;
+}
+.img2{
+	width: 800px;
+	height: 500px;
+	position: absolute;
+	top:0;
+	left: 0;
+	z-index: 2
+}
+.rit{
+	width: 571px;
+	float: right;
+}

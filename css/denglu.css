@@ -1,0 +1,188 @@
+/*第一块*/
+.index-1{
+	width: 100%;
+	overflow: hidden;
+	border-bottom:2px solid #ff432e; 
+
+}
+.center-1{
+	width: 1200px;
+	margin: 0 auto;
+	margin-top: 16px;
+	margin-bottom: 8px;
+}
+.logo a{
+	float: left;
+}
+
+.logo i{
+	width: 3px;
+	height: 33px;
+	background: #ddd5cf;
+	display: block;
+	margin:25px 28px 25px 24px;
+	float: left;
+
+
+
+}
+.logo span{
+	font-size: 19px;
+	color: #abaea7;
+	float: left;
+	margin-top: 28px;
+
+}
+
+/*//第二块*/
+.index-2{
+	width: 100%;
+	background: #ff9e2f;
+
+}
+.center-2{
+	width: 1200px;
+	margin:0 auto;
+	overflow: hidden;
+	
+}
+.left-2{
+	width: 540px;
+	height: 240px;
+	margin-top: 110px;
+	float: left;
+}
+.right-2{
+	width: 490px;
+	float: right;
+	margin-top: 58px;
+	margin-bottom: 88px;
+}
+.denglubox{
+	width: 356px;
+	height: 328px;
+	background: #fff;
+	overflow: hidden;
+}
+.cen-b2	{
+	width:278px;
+	margin:21px auto 30px; 
+}
+.top-2{
+	width: 100%;
+	overflow: hidden;
+}
+.top-2 h3{
+	width: 74px;
+	font-size: 18px;
+	color: #666;
+	line-height: 40px;
+	height: 40px;
+	float: left;
+
+}
+.top-2 p{
+	width: 130px;
+	line-height: 30px;
+	height: 30px;
+	margin-top: 10px;
+	float: right;
+	font-size: 12px;
+	color: #666;
+}
+.top-2 p a{
+	color: #f54135;
+	margin-left: 8px;
+
+}
+.mid-b2{
+	width: 100%;
+	height: 26px;
+	border:1px solid #f1d965;
+	font-size: 12px;
+	color: #bb0d36;
+	line-height: 26px;
+	background:  #f8e482 url(../images/下载.png)no-repeat  12px 6px;
+	margin-bottom: 15px;
+}
+.mid-b2 span{
+	margin-left: 38px;
+}
+
+.bot-2{
+	width: 100%;
+	position: relative;
+
+}
+.input2-b1{
+	width: 100%;
+	height:40px;
+	border: 1px solid #999;
+	
+}
+.input{
+	width: 222px;
+	margin-left: 40px;
+	height: 35px;
+	line-height: 35px;
+	outline: none;
+	border: none;
+	font-size: 12px;
+	color: #666;
+
+}
+.input2-b2{
+	margin-top: 20px;
+}
+.input2-b1 {
+	background: url(../images/r1.png)no-repeat 12px 10px;
+}
+.input2-b2 {
+	background: url(../images/y1.png)no-repeat 12px 10px;
+}
+
+.auto {
+	   width: 100%;
+		height: 37px;
+		line-height: 37px;
+		margin-bottom: 10px;
+		
+	}
+.auto a,.auto i {
+	font-size: 12px;
+	color: #666;
+	float: left;
+
+}
+.auto input{
+	float: left;
+	display: block;
+	margin-top: 13px;
+}
+.auto a{
+	margin-left: 145px;
+
+}
+.submit{
+	width: 100%;
+	height: 40px;
+	background: #ff6600;
+	font-size: 18px;
+	color: #fff;
+	line-height: 40px;
+	text-align: center;
+	display: block;
+
+
+}
+
+.bot-2 p{
+	font-size: 12px;
+	color: red;
+	position: absolute;
+	top:42px;
+	left: 0;
+	display: none;
+
+}
+
